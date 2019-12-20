@@ -126,7 +126,7 @@
                                  class = 'row',
                                  tags$div(
                                      class = 'col-lg-12 text-center',
-                                     img(src = 'kcpd_patch.jpg'),
+                                     img(src = 'kcpd_patch.png'),
                                      tags$h2(
                                          class = 'section-heading text-uppercase',
                                          "Crime in Kansas City, MO"
