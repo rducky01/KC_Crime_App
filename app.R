@@ -6,6 +6,7 @@
     library(jsonlite)
     library(leaflet)
     library(leaflet.extras)
+    library(DT)
     
     # Load data.
     kcCrime5 <- read.csv('kcCrimeClean.csv')
